@@ -2,9 +2,9 @@
   "name": "comparacionproductos",
   "version": "1.0.0",
   "type": "module",
-  "main": "app.mjs",
+  "main": "server.mjs",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development node --watch app.mjs",
+    "dev": "cross-env NODE_ENV=development node --watch server.mjs",
     "test": "cross-env NODE_ENV=development node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles"
   },
   "keywords": [],
