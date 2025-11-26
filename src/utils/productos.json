@@ -1,0 +1,198 @@
+[
+  {
+    "id": "1",
+    "nombre": "Auriculares Bluetooth JBL Tune 510BT Actualizado",
+    "url": "https://example.com/productos/jbl-tune-510bt",
+    "descripcion": "Auriculares inalámbricos con sonido potente y batería de hasta 40 horas.",
+    "precio": 20999,
+    "calificacion": 4.7,
+    "especificaciones": {
+      "conectividad": "Bluetooth 5.0",
+      "duracion_bateria": "40 horas",
+      "color": "Negro",
+      "peso": "160 g"
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Monitor Samsung 24” LED Full HD",
+    "url": "https://example.com/productos/samsung-monitor-24",
+    "descripcion": "Monitor LED de 24 pulgadas con resolución Full HD y tecnología Eye Saver Mode.",
+    "precio": 84999,
+    "calificacion": 4.8,
+    "especificaciones": {
+      "resolucion": "1920x1080",
+      "frecuencia": "75 Hz",
+      "tipo_panel": "VA",
+      "puertos": "HDMI, VGA"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico Redragon Kumara K552",
+    "url": "https://example.com/productos/redragon-k552",
+    "descripcion": "Teclado mecánico compacto con retroiluminación RGB y switches Outemu Blue.",
+    "precio": 34999,
+    "calificacion": 4.7,
+    "especificaciones": {
+      "tipo_switch": "Outemu Blue",
+      "iluminacion": "RGB",
+      "layout": "QWERTY",
+      "conexion": "Cable USB"
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Smartphone Xiaomi Redmi Note 12",
+    "url": "https://example.com/productos/redmi-note-12",
+    "descripcion": "Smartphone de gama media con pantalla AMOLED de 6.67”, Snapdragon 685 y 5000 mAh.",
+    "precio": 249999,
+    "calificacion": 4.5,
+    "especificaciones": {
+      "pantalla": "6.67'' AMOLED",
+      "procesador": "Snapdragon 685",
+      "bateria": "5000 mAh",
+      "camara": "Triple 50 MP"
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Notebook Lenovo IdeaPad 3 15” Ryzen 5",
+    "url": "https://example.com/productos/lenovo-ideapad3",
+    "descripcion": "Notebook ideal para uso diario con procesador AMD Ryzen 5 y SSD de 512 GB.",
+    "precio": 559999,
+    "calificacion": 4.4,
+    "especificaciones": {
+      "procesador": "AMD Ryzen 5 5500U",
+      "ram": "8 GB",
+      "almacenamiento": "512 GB SSD",
+      "pantalla": "15.6'' Full HD"
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Smart TV LG 50'' 4K UHD",
+    "url": "https://example.com/productos/lg-smart-tv-50",
+    "descripcion": "Smart TV de 50 pulgadas con resolución 4K, WebOS y compatibilidad con asistentes.",
+    "precio": 499999,
+    "calificacion": 4.6,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "sistema_operativo": "WebOS",
+      "tamaño_pantalla": "50''",
+      "puertos": "3 HDMI, 2 USB"
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Mouse Logitech G203 Lightsync",
+    "url": "https://example.com/productos/logitech-g203",
+    "descripcion": "Mouse gamer con sensor de hasta 8000 DPI y retroiluminación RGB.",
+    "precio": 18999,
+    "calificacion": 4.7,
+    "especificaciones": {
+      "dpi": "200-8000",
+      "botones": "6",
+      "iluminacion": "RGB",
+      "conexion": "Cable USB"
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Parlante Bluetooth Xiaomi Mi Compact",
+    "url": "https://example.com/productos/xiaomi-mi-compact",
+    "descripcion": "Parlante portátil con buen sonido y diseño minimalista.",
+    "precio": 9999,
+    "calificacion": 4.3,
+    "especificaciones": {
+      "bateria": "6 horas",
+      "conexion": "Bluetooth 4.2",
+      "potencia": "2W",
+      "peso": "54 g"
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Silla Gamer Cougar Explore S",
+    "url": "https://example.com/productos/cougar-explore-s",
+    "descripcion": "Silla ergonómica para gamers con respaldo reclinable y soporte lumbar.",
+    "precio": 189999,
+    "calificacion": 4.5,
+    "especificaciones": {
+      "material": "Cuero sintético PVC",
+      "peso_maximo": "120 kg",
+      "reclinacion": "Hasta 155°",
+      "ajuste_altura": "Sí"
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Disco SSD Kingston A400 480GB",
+    "url": "https://example.com/productos/kingston-a400-480gb",
+    "descripcion": "Unidad de estado sólido para mejorar el rendimiento del sistema.",
+    "precio": 37999,
+    "calificacion": 4.9,
+    "especificaciones": {
+      "capacidad": "480 GB",
+      "interfaz": "SATA III",
+      "lectura": "500 MB/s",
+      "escritura": "450 MB/s"
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "Auriculares Bluetooth JBL Tune 510BT",
+    "url": "https://example.com/productos/jbl-tune-510bt",
+    "descripcion": "Auriculares inalámbricos con sonido potente y batería de hasta 40 horas.",
+    "precio": 19999,
+    "calificacion": 4.6,
+    "especificaciones": {
+      "conectividad": "Bluetooth 5.0",
+      "duracion_bateria": "40 horas",
+      "color": "Negro",
+      "peso": "160 g"
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Auriculares Bluetooth JBL Tune 510BT",
+    "url": "https://example.com/productos/jbl-tune-510bt",
+    "descripcion": "Auriculares inalámbricos con sonido potente y batería de hasta 40 horas.",
+    "precio": 19999,
+    "calificacion": 4.6,
+    "especificaciones": {
+      "conectividad": "Bluetooth 5.0",
+      "duracion_bateria": "40 horas",
+      "color": "Negro",
+      "peso": "160 g"
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "Auriculares Bluetooth JBL Tune 510BT",
+    "url": "https://example.com/productos/jbl-tune-510bt",
+    "descripcion": "Auriculares inalámbricos con sonido potente y batería de hasta 40 horas.",
+    "precio": 19999,
+    "calificacion": 4.6,
+    "especificaciones": {
+      "conectividad": "Bluetooth 5.0",
+      "duracion_bateria": "40 horas",
+      "color": "Negro",
+      "peso": "160 g"
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "Auriculares Bluetooth JBL Tune 510BT",
+    "url": "https://example.com/productos/jbl-tune-510bt",
+    "descripcion": "Auriculares inalámbricos con sonido potente y batería de hasta 40 horas.",
+    "precio": 19999,
+    "calificacion": 4.6,
+    "especificaciones": {
+      "conectividad": "Bluetooth 5.0",
+      "duracion_bateria": "40 horas",
+      "color": "Negro",
+      "peso": "160 g"
+    }
+  }
+]

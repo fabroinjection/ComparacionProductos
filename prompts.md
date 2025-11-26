@@ -1,0 +1,7 @@
+- me podrías dar una lista de 10 productos con nombre, url, descripción, precio, calificacion y especificaciones?
+- conviene definir un archivo model.js de producto para guardar en productos.json?
+- me recordarías cómo usar fs y path en node js para leer y escribir en un archivo?
+- como puedo personalizar el mensaje de error que viene por defecto en joi?
+- cuáles son los parámetros de la función JSON.stringify a la hora de hacer la conversión? el tercer parámetro sirve para identar en el archivo?
+- podrías armarme una versión inicial del README.md en markdown basándote en el package.json y estructura del proyecto donde se defina el patrón utilizado (MVC), las tecnologías utilizadas (node y express) y las librerías?
+- podrías tomar los casos de prueba de test.http y crear pruebas automatizadas para el post, put y delete en productos.test.mjs siguiendo los ejemplos de pruebas definidas para POST/PUT/DELETE previos?

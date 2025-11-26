@@ -1,0 +1,82 @@
+# GET http://localhost:3000/api/productos
+
+# GET http://localhost:3000/api/productos?nombre=auriculares
+
+# GET http://localhost:3000/api/productos?precioMin=10000&precioMax=50000&orderBy=precio&orden=desc
+
+# GET http://localhost:3000/api/productos?precioMin=10000&precioMax=50000&orderBy=testPropNoExistente&orden=desc
+
+# GET http://localhost:3000/api/productos/1
+
+# GET http://localhost:3000/api/productos/999
+
+# POST http://localhost:3000/api/productos
+# Content-Type: application/json
+
+# {
+#     "nombre": "Auriculares Bluetooth JBL Tune 510BT",
+#     "url": "https://example.com/productos/jbl-tune-510bt",
+#     "descripcion": "Auriculares inalámbricos con sonido potente y batería de hasta 40 horas.",
+#     "precio": 19999,
+#     "calificacion": 4.6,
+#     "especificaciones": {
+#         "conectividad": "Bluetooth 5.0",
+#         "duracion_bateria": "40 horas",
+#         "color": "Negro",
+#         "peso": "160 g"
+#     }
+# }
+
+# POST http://localhost:3000/api/productos
+# Content-Type: application/json
+
+# {
+#     "url": "https://example.com/productos/jbl-tune-510bt",
+#     "descripcion": "Auriculares inalámbricos con sonido potente y batería de hasta 40 horas.",
+#     "precio": 19999,
+#     "calificacion": 4.6,
+#     "especificaciones": {
+#         "conectividad": "Bluetooth 5.0",
+#         "duracion_bateria": "40 horas",
+#         "color": "Negro",
+#         "peso": "160 g"
+#     }
+# }
+
+# PUT http://localhost:3000/api/productos/1
+# Content-Type: application/json
+
+# {
+#     "nombre": "Auriculares Bluetooth JBL Tune 510BT",
+#     "url": "https://example.com/productos/jbl-tune-510bt",
+#     "descripcion": "Auriculares inalámbricos con sonido potente y batería de hasta 40 horas.",
+#     "precio": 19999,
+#     "calificacion": 4.7,
+#     "especificaciones": {
+#         "conectividad": "Bluetooth 5.0",
+#         "duracion_bateria": "40 horas",
+#         "color": "Negro",
+#         "peso": "160 g"
+#     }
+# }
+
+# PUT http://localhost:3000/api/productos/999
+# Content-Type: application/json
+
+# {
+#     "nombre": "Auriculares Bluetooth JBL Tune 510BT",
+#     "url": "https://example.com/productos/jbl-tune-510bt",
+#     "descripcion": "Auriculares inalámbricos con sonido potente y batería de hasta 40 horas.",
+#     "precio": 19999,
+#     "calificacion": 4.7,
+#     "especificaciones": {
+#         "conectividad": "Bluetooth 5.0",
+#         "duracion_bateria": "40 horas",
+#         "color": "Negro",
+#         "peso": "160 g"
+#     }
+# }
+
+# DELETE http://localhost:3000/api/productos/1999
+
+# DELETE http://localhost:3000/api/productos/11

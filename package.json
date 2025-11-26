@@ -1,0 +1,23 @@
+{
+  "name": "comparacionproductos",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.mjs",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development node --watch app.mjs",
+    "test": "cross-env NODE_ENV=development node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cross-env": "^10.0.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "jest": "^30.0.5",
+    "joi": "^17.13.3",
+    "supertest": "^7.1.4"
+  }
+}
